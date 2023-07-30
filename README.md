@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 - ---
 # Hi there 👋
-### I am a last year computer engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🧑‍🎓 I'm student at AAST (Arab Academy for Science, Technology & Maritime Transport)
+### I am a fresh graduate computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🧑‍🎓 Graduated from AAST (Arab Academy for Science, Technology & Maritime Transport)
 - 🏠 Living at Cairo, Egypt
 - 🌱 I’m currently learning embedded system
 - 📫 Can reach me on: mohamed.mokhtar.elkomy@gmail.com
