@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - ---
 # Hi there 👋
-### I am a computer engineer pursuing a Master's degree <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### I am a computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🧑‍🎓 Graduated from AAST (Arab Academy for Science, Technology & Maritime Transport)
 - 🏠 Living at Stuttgart, Germany
 - 🌱 I’m currently pursuing a Master's degree in Information Technology with a specialization in Embedded Systems at Stuttgart University
