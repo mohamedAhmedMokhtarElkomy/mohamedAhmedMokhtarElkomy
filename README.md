@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="header" align="center">
-  <a href="www.linkedin.com/in/mohamed-ahmed-mokhtar-46a01b1ab">
+  <a href="www.linkedin.com/in/mohamed-mokhtar-elkomy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100006312691108">  
